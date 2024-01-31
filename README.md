@@ -1,6 +1,5 @@
 # Memes Gallery
 
-![Project Logo](link-to-your-logo.png) <!-- Replace with your project logo -->
 
 A fun and interactive gallery of memes sourced from Reddit.
 
