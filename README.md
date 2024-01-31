@@ -1,6 +1,7 @@
 # Project Name
 
 A fun and interactive gallery of memes sourced from Reddit.
+Tech Stack - Next.js
 
 ## Table of Contents
 
